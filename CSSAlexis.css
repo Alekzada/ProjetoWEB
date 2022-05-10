@@ -1,0 +1,19 @@
+  /*Esses comandos são utilizados para definir o tamanho e a cor da DIV*/
+    .left{
+        width: 40%;
+        height: 450px;
+        /*Define a borda*/
+        /*border: 2px black dashed;*/ 
+        float: left;
+        /*Esse comando consiste em dar a margem ao site.*/
+        margin-left: 5%;
+        margin-top: 200px;
+    }
+    .right{
+        width: 40%;
+        height: 450px;
+       /* border: 2px #0f0 dashed;*/
+        float: right;
+        margin-right: 5%;
+        margin-top: 200px;
+    }
